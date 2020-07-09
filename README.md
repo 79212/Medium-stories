@@ -3,7 +3,7 @@
 ## How to install MySQL and create an employees sample database
 A guide on how to install MySQL and create an employees sample database in macOS.  
 
-[Jupyter notebook](https://nbviewer.jupyter.org/gist/corralm/7508d7120f36a13f68774fab13656dd7#Select-all-the-rows-in-the-employees-table)  
+[Jupyter notebook](https://nbviewer.jupyter.org/gist/corralm/7508d7120f36a13f68774fab13656dd7)  
 
 [Medium](https://medium.com/@corraljrmiguel/how-to-install-mysql-and-create-an-employees-sample-database-80dd9c5d4767)
 
